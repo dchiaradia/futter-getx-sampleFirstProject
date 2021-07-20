@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class SplashPage extends StatelessWidget {
-  String appName = 'HYDROSTEC TECNOLOGIA';
+  String appName = 'CHIARADIA.COM.BR';
   int splashTime = 5;
   SplashPage() {
     startTimeout();
