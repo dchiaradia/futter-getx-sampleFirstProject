@@ -1,6 +1,7 @@
 # futter-getx-sampleFirstProject
 
 **Autor: Eduardo Chiaradia
+
 [www.chiaradia.com.br](www.chiaradia.com.br)**
 
 Este projeto é criado para demonstrar a utilização do pacote GET para dart/flutter.
@@ -12,5 +13,7 @@ Este projeto é criado para demonstrar a utilização do pacote GET para dart/fl
 # Pastas
 
 **1. Config** => Pasta para configurar cores, e variaveis globais;
+
 **2. Controllers** => Pasta onde fica armazenado os arquivos de controllers de cada tela;
+
 **3. Screens** => Pasta onde ficará o layout da tela
